@@ -1,14 +1,7 @@
 📊 Dashboard de Vendas
 
-
-
 🎯 Objetivo
-Construir um dashboard interativo para análise de vendas, com KPIs corporativos,
-
-segmentações por região, categoria e produto.
-
-
-
+Construir um dashboard interativo para análise de vendas, com KPIs corporativos, segmentações por região, categoria e produto.
 
 
 📁 Estrutura do repositório
@@ -17,13 +10,10 @@ Estudo análise de vendas
 │
 ├── data/
 │   └── Superstore.csv  
-│
 ├── dashboard/
 │   └── Análise\_vendas.pbix
-│
 ├── image/
 │   └── Dashboard.png  
-│
 └── README.md
 
 
